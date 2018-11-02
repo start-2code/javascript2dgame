@@ -1,0 +1,24 @@
+{
+  "name": "javascript2dgame",
+  "version": "1.0.0",
+  "description": "javascript2dgame",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/start-2code/javascript2dgame.git"
+  },
+  "keywords": [
+    "static",
+    "template",
+    "javascript2dgame"
+  ],
+  "author": "start2code",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/start-2code/issues"
+  },
+  "homepage": "https://github.com/start-2code#readme"
+}
